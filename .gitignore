@@ -1,0 +1,31 @@
+## Visual Studio i .NET Core
+BaseIntermediateOutputPath/
+TargetIntermediateOutputPath/
+/bin/
+/obj/
+/[Bb]in/
+/[Oo]bj/
+.vs/
+.vscode/
+
+## Specyficzne dla MAUI / Xamarin
+*.user
+*.userprefs
+*.pidb
+*.mtouch64
+*.appref-ms
+
+## Systemowe pliki tymczasowe
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## Pliki baz danych (lokalne)
+*.db
+*.sqlite
+*.sqlite3
+
+## Logi i raporty
+*.log
+*.trx
+*.html
